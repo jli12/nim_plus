@@ -1,0 +1,23 @@
+{
+    "channel 1 threshold (V)": "0.02",
+    "channel 2 threshold (V)": "null",
+    "channel 3 threshold (V)": "null",
+    "channel 4 threshold (V)": "null",
+    "channel 5 threshold (V)": "null",
+    "channel 6 threshold (V)": "null",
+    "channel 7 threshold (V)": "null",
+    "channel 8 threshold (V)": "null",
+    "dead time (10ns)": 5000000,
+    "pulse width (10ns)": 5,
+    "truth 1-2": 41088,
+    "truth 3-4": 16624,
+    "event timestamps (s)": [
+        1.002662181854248,
+        2.0038511753082275,
+        3.0043883323669434,
+        4.005021095275879,
+        5.006172180175781
+    ],
+    "number of events": 5,
+    "rate (events/s)": 0.9987670859184143
+}
